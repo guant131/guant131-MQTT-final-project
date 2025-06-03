@@ -63,11 +63,7 @@ Communication University of China
 Course: Activity Led Learning Project – MQTT Smart Home System
 
 ## Team number
-Tianxin Guan(Leader)
-Haoxun Li
-Ruihan Wang
-Minzhi Fang
-Shunping Lin 
+Tianxin Guan(Leader),Haoxun Li,Ruihan Wang,Minzhi Fang,Shunping Lin 
 
 ## 📄 License
 
