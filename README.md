@@ -62,7 +62,12 @@ Open `http://localhost:8080` in your browser.
 Communication University of China  
 Course: Activity Led Learning Project – MQTT Smart Home System
 
-Team number:Tianxin Guan Haoxun Li, Ruihan Wang, Minzhi Fang, Shunping Lin 
+## Team number
+Tianxin Guan(Leader)
+Haoxun Li
+Ruihan Wang
+Minzhi Fang
+Shunping Lin 
 
 ## 📄 License
 
